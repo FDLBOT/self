@@ -6,6 +6,7 @@ const {
     Mimetype,
     GroupSettingChange
 } = require('@adiwajshing/baileys')
+} = require('@kagchi/kag-api": "^1.5.5')
 const { color, bgcolor } = require('./lib/color')
 const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 const { fetchJson, fetchText } = require('./lib/fetcher')
